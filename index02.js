@@ -33,7 +33,8 @@ ASSIGNMENT RULES
  Create a variable named x and assign to it the number 12.
 */
 
-// let x = 12;
+let x = 12;
+console.log(x);
 
 /* EXERCISE 5
  Create a variable called name and assign to it the string "John Doe".
