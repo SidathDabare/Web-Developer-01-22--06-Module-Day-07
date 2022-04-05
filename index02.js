@@ -23,8 +23,10 @@ ASSIGNMENT RULES
 /* EXERCISE 3
  Write the code to execute an addition (a sum) of the numbers 12 and 20.
 */
-
 // let a = 12 + 20;
+
+// let a = 12;
+// a += 20;
 // console.log(a);
 
 /* EXERCISE 4
@@ -74,8 +76,8 @@ ASSIGNMENT RULES
  try to search it by yourself, tomorrow morning we'll discuss it together!)
 */
 
-let x = 5;
-console.log(x === 5 ? "Five" : "Not equel");
+// let x = 5;
+// console.log(x === 5 ? "Five" : "Not equel");
 
 /* WHEN YOU ARE FINISHED
  Upload the .js file on Eduflow before 5PM CET. In the next days we'll also learn how to use GIT!
